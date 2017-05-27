@@ -1,4 +1,4 @@
-package LinkedList._19_Remove_Nth_Node_From_End_of_List;
+package LinkedList._237_Delete_Node_In_A_Linked_List;
 
 import DataStructure.ListNode;
 import DataStructure.SingleLinkedList;
@@ -6,8 +6,7 @@ import DataStructure.SingleLinkedList;
 /**
  * Created by hengwang on 2017-05-25.
  */
-public class RemoveNthNodeFromEndOfListTest {
-
+public class DeleteNodeInALinkedListTest {
   public static void main(String[] args) {
 
     ListNode head = new ListNode(1);
@@ -23,10 +22,10 @@ public class RemoveNthNodeFromEndOfListTest {
 
     SingleLinkedList.printLinkedList(head);
 
-    RemoveNthNodeFromEndOfList Test = new RemoveNthNodeFromEndOfList();
-//    ListNode newHead = Test.removeNthFromEnd(head, 5);
-    ListNode newHead = Test.removeNthFromEnd_OnePass(head, 3);
+    DeleteNodeInALinkedList Test = new DeleteNodeInALinkedList();
+    Test.deleteNode(n3);
 
-    SingleLinkedList.printLinkedList(newHead);
+    // Expected: 1->2->3->5
+    SingleLinkedList.printLinkedList(head);
   }
 }
