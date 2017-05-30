@@ -2,6 +2,8 @@ package LinkedList._234_Palindrome_Linked_List;
 
 import DataStructure.ListNode;
 
+import java.util.Stack;
+
 /**
  * Created by hengwang on 2017-05-28.
  *
@@ -61,6 +63,41 @@ public class PalindromeLinkedList {
     return true;
   }
 
+  /**
+   * Using runner approach and stack to store the half front nodes. And compare to the rest of the nodes.
+   * @param head
+   * @return
+   */
+  public boolean isPalindrome_IterateApproach(ListNode head) {
+    if (head == null) {
+      return true;
+    }
+
+    ListNode slow = head;
+    ListNode fast = head;
+
+    Stack<Integer> stack = new Stack<>();
+
+    while (fast != null && fast.next != null) {
+      stack.push(slow.data);
+      slow = slow.next;
+      fast = fast.next.next;
+    }
+
+    /* Has odd number of elements, so skip the middle element*/
+    if (fast != null) {
+      slow = slow.next;
+    }
+
+    while (slow != null) {
+      if (slow.data != stack.pop()) {
+        return false;
+      }
+      slow = slow.next;
+    }
+
+    return true;
+  }
 
   /**
    *
@@ -73,4 +110,5 @@ public class PalindromeLinkedList {
 
     return true;
   }
+
 }

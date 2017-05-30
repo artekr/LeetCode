@@ -27,6 +27,7 @@ public class PalindromeLinkedListTest {
 
     PalindromeLinkedList Test = new PalindromeLinkedList();
     System.out.println(Test.isPalindrome(head)); // Expected: true
+    System.out.println(Test.isPalindrome_IterateApproach(head)); // Expected: true
 
     /*******************************************************/
     ListNode head_1 = new ListNode(1);
@@ -44,5 +45,6 @@ public class PalindromeLinkedListTest {
 
     PalindromeLinkedList Test2 = new PalindromeLinkedList();
     System.out.println(Test2.isPalindrome(head_1)); // Expected: false
+    System.out.println(Test2.isPalindrome_IterateApproach(head_1)); // Expected: false
   }
 }
