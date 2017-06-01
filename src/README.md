@@ -10,8 +10,15 @@
   * [86. Partition List](https://leetcode.com/problems/partition-list)
   
 ###### 2017/05/27
-   * [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)
-   * [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii)
+  * [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)
+  * [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii)
    
 ###### 2017/05/28
-   * [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list)
+  * [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list)
+   
+###### 2017/05/30
+  * [155 Min Stack](https://leetcode.com/problems/min-stack)
+   
+###### 2017/05/31
+  * [257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths)
+  * [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree)

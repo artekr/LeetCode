@@ -1,7 +1,7 @@
-package Tree._110_Balanced_Binary_Tree;
+package Tree._257_Binary_Tree_Paths;
 
 /**
- * Created by hengwang on 2017-05-30.
+ * Created by hengwang on 2017-05-31.
  *
  * Definition for a binary tree node.
  * public class TreeNode {
@@ -12,6 +12,6 @@ package Tree._110_Balanced_Binary_Tree;
  * }
  */
 
-public class BalancedBinaryTree {
+public class BinaryTreePaths {
 
 }
