@@ -1,4 +1,4 @@
-package LinkedList._160_IntersectionOfTwoLinkedLists;
+package LinkedList._160_Intersection_Of_Two_Linked_Lists;
 
 import DataStructure.ListNode;
 import DataStructure.SingleLinkedList;
