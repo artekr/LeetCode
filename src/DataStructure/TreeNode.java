@@ -1,4 +1,4 @@
-package Tree;
+package DataStructure;
 
 /**
  * Created by hengwang on 2017-05-31.
