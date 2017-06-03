@@ -1,13 +1,14 @@
-package LinkedList._141_Linked_List_Cycle;
+package LinkedList._142_Linked_List_Cycle_II;
 
 import DataStructure.ListNode;
 
 /**
  * Created by hengwang on 2017-06-02.
  */
-public class LinkedListCycleTest {
+public class LinkedListCycleIITest {
 
   public static void main(String[] args) {
+
     ListNode head = new ListNode(1);
     ListNode n2 = new ListNode(2);
     ListNode n3 = new ListNode(3);
@@ -18,11 +19,10 @@ public class LinkedListCycleTest {
     n2.next = n3;
     n3.next = n4;
     n4.next = n5;
-    n5.next = head;
+    n5.next = n2;
 
-    LinkedListCycle Test = new LinkedListCycle();
-    System.out.println(Test.hasCycle(head)); // Expected: true
-    System.out.println(Test.hasCycle_Cleaner(head)); // Expected: true
+    LinkedListCycleII Test = new LinkedListCycleII();
+    System.out.println(Test.detectCycle(head).data); // Expected: true
 
     /**************************************************************/
     ListNode head_2 = new ListNode(1);
@@ -34,8 +34,8 @@ public class LinkedListCycleTest {
     n2_2.next = n3_2;
     n3_2.next = n4_2;
 
-    System.out.println(Test.hasCycle(head_2)); // Expected: false
-    System.out.println(Test.hasCycle_Cleaner(head_2)); // Expected: false
+    System.out.println(Test.detectCycle(head_2)); // Expected: null
+
 
   }
 }

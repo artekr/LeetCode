@@ -14,4 +14,4 @@ For example,
     Given 1 and x = 0,
     return 1.
 
-*[Link]()*
+*[Link](https://leetcode.com/problems/partition-list)*
