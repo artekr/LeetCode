@@ -22,6 +22,6 @@
 
 |  #  | Title           |  Solution       | Difficulty    |
 |-----|---------------- | --------------- | ------------- |
-94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Python](./algorithms/python/BinaryTreeInorderTraversal) | Medium |
-144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Python](./algorithms/python/BinaryTreePreorderTraversal) | Medium |
-145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Python](./algorithms/python/BinaryTreePostorderTraversal) | Medium |
+94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Python](./algorithms/python/BinaryTreeInorderTraversal/BinaryTreeInorderTraversal.py) | Medium |
+144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Python](./algorithms/python/BinaryTreePreorderTraversal/BinaryTreePreorderTraversal.py) | Medium |
+145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Python](./algorithms/python/BinaryTreePostorderTraversal/BinaryTreePostorderTraversal.py) | Medium |
