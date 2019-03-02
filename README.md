@@ -6,6 +6,12 @@
 * [Linked List](https://github.com/artekr/LeetCode#linked-list)
 * [Tree](https://github.com/artekr/LeetCode#tree)
 
+## String
+
+|  #  | Title           |  Solution       | Difficulty    |
+|-----|---------------- | --------------- | ------------- |
+125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [Java](./algorithms/java/src/String/_125_Valid_Palindrome) | Easy |
+
 ## Linked List
 
 |  #  | Title           |  Solution       | Difficulty    |
@@ -16,6 +22,6 @@
 
 |  #  | Title           |  Solution       | Difficulty    |
 |-----|---------------- | --------------- | ------------- |
-110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree) | [python](./algorithms/python/BalancedBinaryTree) | Easy |
-257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths) | [python](./algorithms/python/BinaryTreePaths) | Easy |
-530 | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst) | [python](./algorithms/python) | Easy |
+94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Python](./algorithms/python/BinaryTreeInorderTraversal) | Medium |
+144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Python](./algorithms/python/BinaryTreePreorderTraversal) | Medium |
+145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Python](./algorithms/python/BinaryTreePostorderTraversal) | Medium |
