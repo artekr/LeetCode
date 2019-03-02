@@ -1,16 +1,19 @@
-# [LeetCode solutions](https://leetcode.com/problemset/algorithms/)
+# [LeetCode](https://leetcode.com/problemset/algorithms/)
+![Language](https://img.shields.io/badge/language-Python%20%2F%20Java%20-orange.svg)
+
 ## Algorithms
 
 * [Linked List](https://github.com/artekr/LeetCode#linked-list)
 * [Tree](https://github.com/artekr/LeetCode#tree)
 
-
 ## Linked List
+
 |  #  | Title           |  Solution       | Difficulty    |
 |-----|---------------- | --------------- | ------------- |
 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | [Java](./algorithms/java/src/LinkedList/_19_Remove_Nth_Node_From_End_of_List) | Medium |
 
 ## Tree
+
 |  #  | Title           |  Solution       | Difficulty    |
 |-----|---------------- | --------------- | ------------- |
 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree) | [python](./algorithms/python/BalancedBinaryTree) | Easy |
