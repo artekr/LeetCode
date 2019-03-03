@@ -1,6 +1,10 @@
 # [LeetCode](https://leetcode.com/problemset/algorithms/)
 ![Language](https://img.shields.io/badge/language-Python%20%2F%20Java%20-orange.svg)
 
+## Notes
+
+* [Trees and Graphs](./notes/TreesAndGraphs.md)
+
 ## Algorithms
 
 * [Linked List](https://github.com/artekr/LeetCode#linked-list)
