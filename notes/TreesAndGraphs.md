@@ -13,7 +13,7 @@ left -> right -> root
 
 ### Level Order
 Traverse the tree one layer at a time
-```python
+```
      3
     / \
    9  20
