@@ -8,10 +8,12 @@ root -> left -> right
 ### Preorder
 left -> root -> right
 
+Derived DFS.
+
 ### Postorder
 left -> right -> root
 
-Similar as DFS.
+Derived DFS.
 
 ### Level Order
 Traverse the tree one layer at a time
