@@ -11,6 +11,8 @@ left -> root -> right
 ### Postorder
 left -> right -> root
 
+Similar as DFS.
+
 ### Level Order
 Traverse the tree one layer at a time
 ```

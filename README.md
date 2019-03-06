@@ -32,3 +32,4 @@
 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Python](./algorithms/python/BinaryTreeLevelOrderTraversal/BinaryTreeLevelOrderTraversal.py) | Medium |
 107 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | [Python](./algorithms/python/BinaryTreeLevelOrderTraversalII/BinaryTreeLevelOrderTraversalII.py) | Easy |
 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Python](./algorithms/python/MaximumDepthofBinaryTree/MaximumDepthofBinaryTree.py) | Easy |
+101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Python](./algorithms/python/SymmetricTree/SymmetricTree.py) | Easy |
