@@ -17,16 +17,34 @@ class Solution1:
 # DFS Iteration
 class Solution2:
     def maxDepth(self, root: TreeNode) -> int:
-        if not root:
-            return 0
+        stack = []
+        if root:
+            stack.append((1, root))
+        depth = 0
+        while stack:
+            currentLevel,currentNode = stack.pop()
+            if currentNode is not None:
+                depth = max(depth, currentLevel)
+                stack.append((currentLevel+1, currentNode.left))
+                stack.append((currentLevel+1, currentNode.right))
+        return depth
 
 # BFS Iteration
+from collections import deque
 class Solution3:
     def maxDepth(self, root: TreeNode) -> int:
-        if not root:
-            return 0
+        queue = deque()
+        if root:
+            queue.append((1, root))
 
-
+        depth = 0
+        while queue:
+            level, currentNode = queue.popleft()
+            if currentNode is not None:
+                queue.append((level+1, currentNode.left))
+                queue.append((level+1, currentNode.right))
+                depth = max(depth, level)
+        return depth
 
 ########
 # Test #
@@ -49,6 +67,6 @@ root.right = node2
 node2.left = node3
 node2.right = node4
 
-result = Solution1().maxDepth(root)
+result = Solution3().maxDepth(root)
 print(result)
 # expected: 3
