@@ -9,6 +9,7 @@
 
 * [Bit Manipulation](https://github.com/artekr/LeetCode#bit-manipulation)
 * [String](https://github.com/artekr/LeetCode#string)
+* [Array](https://github.com/artekr/LeetCode#array)
 * [Linked List](https://github.com/artekr/LeetCode#linked-list)
 * [Tree](https://github.com/artekr/LeetCode#tree)
 * [Math](https://github.com/artekr/LeetCode#math)
@@ -19,13 +20,18 @@
 |-----|---------------- | --------------- | ------------- |
 231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | [Python](./algorithms/python/PowerOfTwo/PowerOfTwo.py) | Easy |
 
-
 ## String
 
 |  #  | Title           |  Solution       | Difficulty    |
 |-----|---------------- | --------------- | ------------- |
 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [Java](./algorithms/java/src/String/_125_Valid_Palindrome) | Easy |
 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](./algorithms/python/ValidParentheses/ValidParentheses.py) | Easy |
+
+## Array
+
+|  #  | Title           |  Solution       | Difficulty    |
+|-----|---------------- | --------------- | ------------- |
+66 | [Plus One](https://leetcode.com/problems/plus-one/) | [Python](./algorithms/python/PlusOne/PlusOne.py) | Easy |
 
 ## Linked List
 
