@@ -21,6 +21,13 @@ class Solution:
             digits[last] += 1
         return digits
 
+# Elegant
+class Solution2:
+    def plusOne(self, digits: List[int]) -> List[int]:
+        return list(map(int, str(int(''.join(map(str,digits))) + 1)))
+# steps:
+# [1,2,3] -> ['1','2','3'] -> '123' -> 123 -> 123 + 1 -> 124 -> '124' -> 124 -> [1,2,4]
+
 
 print(Solution().plusOne([1,2,3]))
 # expected: [1,2,4]
