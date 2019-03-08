@@ -7,8 +7,18 @@
 
 ## Algorithms
 
+* [Bit Manipulation](https://github.com/artekr/LeetCode#bit-manipulation)
+* [String](https://github.com/artekr/LeetCode#string)
 * [Linked List](https://github.com/artekr/LeetCode#linked-list)
 * [Tree](https://github.com/artekr/LeetCode#tree)
+* [Math](https://github.com/artekr/LeetCode#math)
+
+## Bit Manipulation
+
+|  #  | Title           |  Solution       | Difficulty    |
+|-----|---------------- | --------------- | ------------- |
+231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | [Python](./algorithms/python/PowerOfTwo/PowerOfTwo.py) | Easy |
+
 
 ## String
 
@@ -35,3 +45,8 @@
 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Python](./algorithms/python/MaximumDepthofBinaryTree/MaximumDepthofBinaryTree.py) | Easy |
 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Python](./algorithms/python/SymmetricTree/SymmetricTree.py) | Easy |
 112 | [Path Sum](https://leetcode.com/problems/path-sum) | [Python](./algorithms/python/PathSum/PathSum.py) | Easy |
+
+## Math
+|  #  | Title           |  Solution       | Difficulty    |
+|-----|---------------- | --------------- | ------------- |
+326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | [Python](./algorithms/python/PowerOfThree/PowerOfThree.py) | Easy |
