@@ -10,7 +10,7 @@
 * [Bit Manipulation](https://github.com/artekr/LeetCode#bit-manipulation)
 * [Array and String](https://github.com/artekr/LeetCode#array-and-string)
 * [Linked List](https://github.com/artekr/LeetCode#linked-list)
-* [Tree](https://github.com/artekr/LeetCode#tree)
+* [Trees and Graphs](https://github.com/artekr/LeetCode#trees-and-graphs)
 * [Math](https://github.com/artekr/LeetCode#math)
 
 ## Bit Manipulation
@@ -38,7 +38,7 @@
 |-----|---------------- | --------------- | ------------- |
 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | [Java](./algorithms/java/src/LinkedList/_19_Remove_Nth_Node_From_End_of_List) | Medium |
 
-## Tree
+## Trees and Graphs
 
 |  #  | Title           |  Solution       | Difficulty    |
 |-----|---------------- | --------------- | ------------- |
