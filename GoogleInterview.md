@@ -6,9 +6,13 @@
 |  #  | Title           |  Solution       | Difficulty    |
 |-----|---------------- | --------------- | ------------- |
 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | [Python](./algorithms/python/RepeatedStringMatch/RepeatedStringMatch.py) | Easy??? |
-683 | [K Empty Slots](https://leetcode.com/problems/k-empty-slots/) | [Python](./algorithms/python/KEmptySlots/KEmptySlots.py) | Hard ⭑|
+683 | [K Empty Slots](https://leetcode.com/problems/k-empty-slots/) | [Python](./algorithms/python/KEmptySlots/KEmptySlots.py) | Hard ⭑⭑|
 
 ## [Array and Strings](https://leetcode.com/explore/interview/card/google/59/array-and-strings/)
+
+|  #  | Title           |  Solution       | Difficulty    |
+|-----|---------------- | --------------- | ------------- |
+54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Python](./algorithms/python/SpiralMatrix/SpiralMatrix.py) | Medium ⭑⭑|
 
 ## [Linked List](https://leetcode.com/explore/interview/card/google/60/linked-list-5/)
 
