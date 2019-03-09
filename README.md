@@ -8,8 +8,7 @@
 ## Algorithms
 
 * [Bit Manipulation](https://github.com/artekr/LeetCode#bit-manipulation)
-* [String](https://github.com/artekr/LeetCode#string)
-* [Array](https://github.com/artekr/LeetCode#array)
+* [Array and String](https://github.com/artekr/LeetCode#array-and-string)
 * [Linked List](https://github.com/artekr/LeetCode#linked-list)
 * [Tree](https://github.com/artekr/LeetCode#tree)
 * [Math](https://github.com/artekr/LeetCode#math)
@@ -20,7 +19,7 @@
 |-----|---------------- | --------------- | ------------- |
 231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | [Python](./algorithms/python/PowerOfTwo/PowerOfTwo.py) | Easy |
 
-## String
+## Array and String
 
 |  #  | Title           |  Solution       | Difficulty    |
 |-----|---------------- | --------------- | ------------- |
@@ -28,11 +27,6 @@
 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](./algorithms/python/ValidParentheses/ValidParentheses.py) | Easy |
 929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses//) | [Python](./algorithms/python/UniqueEmailAddresses/UniqueEmailAddresses.py) | Easy |
 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Python](./algorithms/python/FirstUniqueCharacterInAString/FirstUniqueCharacterInAString.py) | Easy |
-
-## Array
-
-|  #  | Title           |  Solution       | Difficulty    |
-|-----|---------------- | --------------- | ------------- |
 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [Python](./algorithms/python/PlusOne/PlusOne.py) | Easy |
 
 ## Linked List
