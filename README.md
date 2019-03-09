@@ -28,6 +28,8 @@
 929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses//) | [Python](./algorithms/python/UniqueEmailAddresses/UniqueEmailAddresses.py) | Easy |
 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Python](./algorithms/python/FirstUniqueCharacterInAString/FirstUniqueCharacterInAString.py) | Easy |
 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [Python](./algorithms/python/PlusOne/PlusOne.py) | Easy |
+686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | [Python](./algorithms/python/RepeatedStringMatch/RepeatedStringMatch.py) | Easy |
+683 | [K Empty Slots](https://leetcode.com/problems/k-empty-slots/) | [Python](./algorithms/python/KEmptySlots/KEmptySlots.py) | Hard ⭑|
 
 ## Linked List
 
