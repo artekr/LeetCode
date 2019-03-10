@@ -1,6 +1,27 @@
 # [LeetCode](https://leetcode.com/problemset/algorithms/)
 ![Language](https://img.shields.io/badge/language-Python%20%2F%20Java%20-orange.svg)
 
+## Common Algorithms
+
+<details><summary>BFS ⭑⭑</summary>
+<p>
+</p>
+</details>
+
+<details><summary>DFS ⭑⭑</summary>
+<p>
+</p>
+</details>
+
+<details><summary>Sliding Window ⭑⭑⭑⭑ </summary>
+<p>
+
+* 159: [Longest Substring with At Most Two Distinct Characters]((https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/))
+* 340: [Longest Substring with At Most K Distinct Characters]((https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/))
+
+</p>
+</details>
+
 ## Notes
 
 * [Trees and Graphs](./notes/TreesAndGraphs.md)
@@ -29,9 +50,11 @@
 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Python](./algorithms/python/FirstUniqueCharacterInAString/FirstUniqueCharacterInAString.py) | Easy |
 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [Python](./algorithms/python/PlusOne/PlusOne.py) | Easy |
 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | [Python](./algorithms/python/RepeatedStringMatch/RepeatedStringMatch.py) | Easy |
-683 | [K Empty Slots](https://leetcode.com/problems/k-empty-slots/) | [Python](./algorithms/python/KEmptySlots/KEmptySlots.py) | Hard ⭑⭑ |
-54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Python](./algorithms/python/SpiralMatrix/SpiralMatrix.py) | Medium ⭑⭑ |
+683 | [K Empty Slots](https://leetcode.com/problems/k-empty-slots/) | [Python](./algorithms/python/KEmptySlots/KEmptySlots.py) | Hard ⭑⭑⭑⭑ |
+54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Python](./algorithms/python/SpiralMatrix/SpiralMatrix.py) | Medium ⭑ |
 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Python](./algorithms/python/TrappingRainWater/TrappingRainWater.py) | Hard ⭑⭑ |
+159 | [Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/) | [Python](./algorithms/python/LongestSubstringWithAtMostTwoDistinctCharacters/LongestSubstringWithAtMostTwoDistinctCharacters.py) | Hard ⭑⭑ |
+340 | [Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/) | [Python](./algorithms/python/LongestSubstringWithAtMostKDistinctCharacters/LongestSubstringWithAtMostKDistinctCharacters.py) | Hard ⭑⭑⭑⭑ |
 
 ## Linked List
 
