@@ -16,7 +16,8 @@
 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [Python](./algorithms/python/PlusOne/PlusOne.py) | Easy |
 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Python](./algorithms/python/TrappingRainWater/TrappingRainWater.py) | Hard ⭑⭑ |
 340 | [Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/) | [Python](./algorithms/python/LongestSubstringWithAtMostKDistinctCharacters/LongestSubstringWithAtMostKDistinctCharacters.py) | Hard ⭑⭑⭑⭑ |
-616 | [Add Bold Tag in String](https://leetcode.com/problems/add-bold-tag-in-string/) | [Python](algorithms/python/AddBoldTagInString/AddBoldTagInString.py) | Medium |
+616 | [Add Bold Tag in String](https://leetcode.com/problems/add-bold-tag-in-string/) | [Python](algorithms/python/AddBoldTagInString/AddBoldTagInString.py) | Medium 👾 |
+289 | [Game of Life](https://leetcode.com/problems/game-of-life/) | [Python](./algorithms/python/GameOfLife/GameOfLife.py) | Medium |
 
 ## [Linked List](https://leetcode.com/explore/interview/card/google/60/linked-list-5/)
 
