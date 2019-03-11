@@ -7,15 +7,21 @@ class Solution:
         s = re.sub('[^A-Za-z0-9]', '', s).lower()
         if not s:
             return True
-        while len(s) != 1:
-            if not s:
-                return True
-            if s[0] != s[len(s)-1]:
+        
+        ## Compare start and end while substract them from string 
+        # while len(s) != 1:
+        #     if not s:
+        #         return True
+        #     if s[0] != s[len(s)-1]:
+        #         return False
+        #     s = s[1:len(s)-1]
+        # return True
+
+        ## Divided by half and compare start and end
+        for i in range(0, len(s)//2):
+            if s[i] != s[len(s)-1-i]:
                 return False
-            s = s[1:len(s)-1]
         return True
-        
-        
 
 
 print(Solution().isPalindrome("A man, a plan, a canal: Panama"))
