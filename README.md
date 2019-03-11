@@ -63,6 +63,16 @@
 |  #  | Title           |  Solution       | Difficulty    |
 |-----|---------------- | --------------- | ------------- |
 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | [Java](./algorithms/java/src/LinkedList/_19_Remove_Nth_Node_From_End_of_List) | Medium |
+21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [Java](./algorithms/java/src/LinkedList/_21_Merge_Two_Sorted_Lists/MergeTwoSortedLists.java) | Easy |
+83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Java](./algorithms/java/src/LinkedList/_83_Remove_Duplicates_from_Sorted_List/RemoveDuplicatesFromSortedList.java) | Easy |
+86 | [Partition List](https://leetcode.com/problems/partition-list) | [Java](./algorithms/java/src/LinkedList/_86_PartitionList/PartitionList.java) | Medium |
+92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [Java](./algorithms/java/src/LinkedList/_92_Reverse_Linked_List_II/ReverseLinkedListII.java) | Medium |
+141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | [Java](./algorithms/java/src/LinkedList/_141_Linked_List_Cycle/LinkedListCycle.java) | Easy |
+142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii) | [Java](./algorithms/java/src/LinkedList/_142_Linked_List_Cycle_II/LinkedListCycleII.java) | Medium |
+160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) | [Java](./algorithms/java/src/LinkedList/_160_Intersection_Of_Two_Linked_Lists/IntersectionOfTwoLinkedLists.java) | Easy |
+206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | [Java](./algorithms/java/src/LinkedList/_206_Reverse_Linked_List/ReverseLinkedList.java) | Easy |
+234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) | [Java](./algorithms/java/src/LinkedList/_234_Palindrome_Linked_List/PalindromeLinkedList.java) | Easy |
+237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) | [Java](./algorithms/java/src/LinkedList/_237_Delete_Node_In_A_Linked_List/DeleteNodeInALinkedList.java) | Easy |
 
 ## Trees and Graphs
 
@@ -78,6 +88,7 @@
 112 | [Path Sum](https://leetcode.com/problems/path-sum) | [Python](./algorithms/python/PathSum/PathSum.py) | Easy |
 
 ## Math
+
 |  #  | Title           |  Solution       | Difficulty    |
 |-----|---------------- | --------------- | ------------- |
 326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | [Python](./algorithms/python/PowerOfThree/PowerOfThree.py) | Easy |
