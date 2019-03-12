@@ -19,6 +19,7 @@
 616 | [Add Bold Tag in String](https://leetcode.com/problems/add-bold-tag-in-string/) | [Python](algorithms/python/AddBoldTagInString/AddBoldTagInString.py) | Medium 👾 |
 289 | [Game of Life](https://leetcode.com/problems/game-of-life/) | [Python](./algorithms/python/GameOfLife/GameOfLife.py) | Medium |
 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [Java](./algorithms/java/src/String/_125_Valid_Palindrome), [Python](./algorithms/python/ValidPalindrome/ValidPalindrome.py) | Easy |
+349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Python](./algorithms/python/IntersectionOfTwoArrays/IntersectionOfTwoArrays.py) | Easy |
 
 ## [Linked List](https://leetcode.com/explore/interview/card/google/60/linked-list-5/)
 

@@ -57,6 +57,7 @@
 340 | [Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/) | [Python](./algorithms/python/LongestSubstringWithAtMostKDistinctCharacters/LongestSubstringWithAtMostKDistinctCharacters.py) | Hard ⭑⭑⭑⭑ |
 616 | [Add Bold Tag in String](https://leetcode.com/problems/add-bold-tag-in-string/) | [Python](algorithms/python/AddBoldTagInString/AddBoldTagInString.py) | Medium |
 289 | [Game of Life](https://leetcode.com/problems/game-of-life/) | [Python](./algorithms/python/GameOfLife/GameOfLife.py) | Medium |
+349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Python](./algorithms/python/IntersectionOfTwoArrays/IntersectionOfTwoArrays.py) | Easy |
 
 ## Linked List
 
