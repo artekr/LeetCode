@@ -23,6 +23,10 @@
 
 ## [Linked List](https://leetcode.com/explore/interview/card/google/60/linked-list-5/)
 
+|  #  | Title           |  Solution       | Difficulty    |
+|-----|---------------- | --------------- | ------------- |
+23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Python](./algorithms/python/MergeKSortedLists/MergeKSortedLists.py) | Hard |
+
 ## [Trees and Graphs](https://leetcode.com/explore/interview/card/google/61/trees-and-graphs/)
 
 ## [Recursion](https://leetcode.com/explore/interview/card/google/62/recursion-4/)
