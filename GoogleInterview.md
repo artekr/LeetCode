@@ -25,6 +25,10 @@
 
 ## [Trees and Graphs](https://leetcode.com/explore/interview/card/google/61/trees-and-graphs/)
 
+|  #  | Title           |  Solution       | Difficulty    |
+|-----|---------------- | --------------- | ------------- |
+285 | [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/) | [Python](./algorithms/python/InorderSuccessorInBST/InorderSuccessorInBST.py) | Medium ⭑⭑⭑⭑ |
+
 ## [Recursion](https://leetcode.com/explore/interview/card/google/62/recursion-4/)
 
 ## [Sorting and Searching](https://leetcode.com/explore/interview/card/google/63/sorting-and-searching-4/)
