@@ -2,11 +2,14 @@
 
 ## Binary Tree Traversal
 
+Different traversal order
+![tree_traversal](https://leetcode.com/problems/validate-binary-search-tree/Figures/145_transverse.png)
+
 ### Inorder
-root -> left -> right
+left -> root -> right
 
 ### Preorder
-left -> root -> right
+root -> left -> right
 
 Derived DFS.
 

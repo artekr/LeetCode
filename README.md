@@ -22,8 +22,8 @@
 <details><summary>Sliding Window ⭑⭑⭑⭑ </summary>
 <p>
 
-* 159: [Longest Substring with At Most Two Distinct Characters]((https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/))
-* 340: [Longest Substring with At Most K Distinct Characters]((https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/))
+* 159: [Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/)
+* 340: [Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)
 
 </p>
 </details>
@@ -94,6 +94,7 @@
 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Python](./algorithms/python/SymmetricTree/SymmetricTree.py) | Easy |
 112 | [Path Sum](https://leetcode.com/problems/path-sum) | [Python](./algorithms/python/PathSum/PathSum.py) | Easy |
 285 | [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/) | [Python](./algorithms/python/InorderSuccessorInBST/InorderSuccessorInBST.py) | Medium ⭑⭑⭑⭑ |
+98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Python](./algorithms/python/ValidateBinarySearchTree/ValidateBinarySearchTree.py) | Medium ⭑⭑⭑⭑ |
 
 ## Math
 

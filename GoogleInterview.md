@@ -28,6 +28,7 @@
 |  #  | Title           |  Solution       | Difficulty    |
 |-----|---------------- | --------------- | ------------- |
 285 | [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/) | [Python](./algorithms/python/InorderSuccessorInBST/InorderSuccessorInBST.py) | Medium ⭑⭑⭑⭑ |
+98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Python](./algorithms/python/ValidateBinarySearchTree/ValidateBinarySearchTree.py) | Medium ⭑⭑⭑⭑ |
 
 ## [Recursion](https://leetcode.com/explore/interview/card/google/62/recursion-4/)
 
