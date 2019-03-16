@@ -38,6 +38,7 @@
 * [Array and String](https://github.com/artekr/LeetCode#array-and-string)
 * [Linked List](https://github.com/artekr/LeetCode#linked-list)
 * [Trees and Graphs](https://github.com/artekr/LeetCode#trees-and-graphs)
+* [Dynamic Programming](https://github.com/artekr/LeetCode#dynamic-programming)
 * [Math](https://github.com/artekr/LeetCode#math)
 
 ## Bit Manipulation
@@ -96,6 +97,12 @@
 112 | [Path Sum](https://leetcode.com/problems/path-sum) | [Python](./algorithms/python/PathSum/PathSum.py) | Easy |
 285 | [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/) | [Python](./algorithms/python/InorderSuccessorInBST/InorderSuccessorInBST.py) | Medium ⭑⭑⭑⭑ |
 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Python](./algorithms/python/ValidateBinarySearchTree/ValidateBinarySearchTree.py) | Medium ⭑⭑⭑⭑ |
+
+## Dynamic Programming
+
+|  #  | Title           |  Solution       | Difficulty    |
+|-----|---------------- | --------------- | ------------- |
+70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python](./algorithms/python/ClimbingStairs/ClimbingStairs.py) | Easy |
 
 ## Math
 
