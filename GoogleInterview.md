@@ -40,6 +40,10 @@
 
 ## [Dynamic Programming](https://leetcode.com/explore/interview/card/google/64/dynamic-programming-4/)
 
+|  #  | Title           |  Solution       | Difficulty    |
+|-----|---------------- | --------------- | ------------- |
+91 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | [Python](./algorithms/python/DecodeWays/DecodeWays.py) | Medium ⭑⭑⭑⭑ |
+
 ## [Design](https://leetcode.com/explore/interview/card/google/65/design-4/)
 
 ## [Other](https://leetcode.com/explore/interview/card/google/66/others-4/)
