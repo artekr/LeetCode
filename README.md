@@ -102,7 +102,8 @@
 
 |  #  | Title           |  Solution       | Difficulty    |
 |-----|---------------- | --------------- | ------------- |
-70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python](./algorithms/python/ClimbingStairs/ClimbingStairs.py) | Easy |
+70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python](./algorithms/python/ClimbingStairs/ClimbingStairs.py) | Easy ⭑⭑⭑ |
+62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Python](./algorithms/python/UniquePaths/UniquePaths.py) | Medium ⭑⭑⭑⭑ |
 
 ## Math
 

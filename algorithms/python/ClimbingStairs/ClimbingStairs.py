@@ -5,7 +5,7 @@ class Solution1:
         memo = [0] * (n+1)
         return self.climbStairsMemo(n, memo)
 
-    def climbStairsMemo(self, n: int, memo: []):
+    def climbStairsMemo(self, n: int, memo: [int]):
         if n == 1 or n == 2:
             return n
         if memo[n] == 0:
