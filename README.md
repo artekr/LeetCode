@@ -105,6 +105,7 @@
 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python](./algorithms/python/ClimbingStairs/ClimbingStairs.py) | Easy ⭑⭑⭑ |
 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Python](./algorithms/python/UniquePaths/UniquePaths.py) | Medium ⭑⭑⭑⭑ |
 91 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | [Python](./algorithms/python/DecodeWays/DecodeWays.py) | Medium ⭑⭑⭑⭑ |
+139 | [Word Break](https://leetcode.com/problems/word-break/) | [Python](./algorithms/python/WordBreak/WordBreak.py) | Medium  👾 |
 
 ## Math
 

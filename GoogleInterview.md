@@ -43,6 +43,7 @@
 |  #  | Title           |  Solution       | Difficulty    |
 |-----|---------------- | --------------- | ------------- |
 91 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | [Python](./algorithms/python/DecodeWays/DecodeWays.py) | Medium ⭑⭑⭑⭑ |
+139 | [Word Break](https://leetcode.com/problems/word-break/) | [Python](./algorithms/python/WordBreak/WordBreak.py) | Medium  👾 |
 
 ## [Design](https://leetcode.com/explore/interview/card/google/65/design-4/)
 
