@@ -19,6 +19,14 @@
 </p>
 </details>
 
+<details><summary>Divide and Conquer ⭑⭑</summary>
+<p>
+
+* 106: [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)
+
+</p>
+</details>
+
 <details><summary>Sliding Window ⭑⭑⭑⭑ </summary>
 <p>
 
@@ -97,6 +105,7 @@
 112 | [Path Sum](https://leetcode.com/problems/path-sum) | [Python](./algorithms/python/PathSum/PathSum.py) | Easy |
 285 | [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/) | [Python](./algorithms/python/InorderSuccessorInBST/InorderSuccessorInBST.py) | Medium ⭑⭑⭑⭑ |
 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Python](./algorithms/python/ValidateBinarySearchTree/ValidateBinarySearchTree.py) | Medium ⭑⭑⭑⭑ |
+106 | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [Python](./algorithms/python/ConstructBinaryTreefromInorderAndPostorderTraversal/ConstructBinaryTreefromInorderAndPostorderTraversal.py) | Medium |
 
 ## Dynamic Programming
 
