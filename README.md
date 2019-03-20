@@ -108,7 +108,7 @@
 105 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Python](./algorithms/python/ConstructBinaryTreeFromPreorderAndInorderTraversal/ConstructBinaryTreeFromPreorderAndInorderTraversal.py) | Medium ⭑ |
 106 | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [Python](./algorithms/python/ConstructBinaryTreefromInorderAndPostorderTraversal/ConstructBinaryTreefromInorderAndPostorderTraversal.py) | Medium ⭑ |
 889 | [Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/) | [Python](./algorithms/python/ConstructBinaryTreeFromPreorderAndPostorderTraversal/ConstructBinaryTreeFromPreorderAndPostorderTraversal.py) | Medium ⭑⭑ |
-235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Python](./algorithms/python/LowestCommonAncestorOfABinarySearchTree/LowestCommonAncestorOfABinarySearchTree.py) | Easy 👾 |
+235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Python](./algorithms/python/LowestCommonAncestorOfABinarySearchTree/LowestCommonAncestorOfABinarySearchTree.py) | Easy ⭑ |
 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Python](./algorithms/python/LowestCommonAncestorOfABinaryTree/LowestCommonAncestorOfABinaryTree.py) | Medium 👾 |
 
 ## Dynamic Programming
