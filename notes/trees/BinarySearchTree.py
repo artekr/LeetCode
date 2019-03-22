@@ -74,8 +74,30 @@ res = BST_maximum(root)
 print(res.val)
 # expected: 8
 
-###########
-# MAXIMUM #
-###########
+#############
+# SUCCESSOR #
+#############
 
-# def BST_maximum(root: TreeNode):
+def BST_successor(root: TreeNode, k: TreeNode):
+    if not root:
+        return None
+    if k.val < root.val:
+        return BST_successor(root.left, k) or root
+    return BST_successor(root.right, k)
+
+print("==== BST_successor ====")
+res = BST_successor(root, node4)
+print(res.val)
+# expected: node2 7
+
+###############
+# PREDECESSOR #
+###############
+
+# def BST_predecessor(root: TreeNode, k: TreeNode):
+
+
+# print("==== BST_predecessor ====")
+# res = BST_predecessor(root, node4)
+# print(res.val)
+# # expected: node2 7
