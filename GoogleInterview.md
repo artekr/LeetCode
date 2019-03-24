@@ -5,8 +5,11 @@
 
 |  #  | Title           |  Solution       | Difficulty    |
 |-----|---------------- | --------------- | ------------- |
-686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | [Python](./algorithms/python/RepeatedStringMatch/RepeatedStringMatch.py) | Easy??? |
+686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | [Python](./algorithms/python/RepeatedStringMatch/RepeatedStringMatch.py) | Easy??? 👾 |
+681 | [Next Closest Time](https://leetcode.com/problems/next-closest-time/) | 👾 | Medium |
 683 | [K Empty Slots](https://leetcode.com/problems/k-empty-slots/) | [Python](./algorithms/python/KEmptySlots/KEmptySlots.py) | Hard ⭑⭑⭑⭑ |
+687 | [Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/) | 👾 | Easy |
+482 | [License Key Formatting](https://leetcode.com/problems/license-key-formatting/) | 👾 | Easy |
 
 ## [Array and Strings](https://leetcode.com/explore/interview/card/google/59/array-and-strings/)
 
@@ -26,6 +29,7 @@
 |  #  | Title           |  Solution       | Difficulty    |
 |-----|---------------- | --------------- | ------------- |
 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Python](./algorithms/python/MergeKSortedLists/MergeKSortedLists.py) | Hard |
+708 | [Insert into a Cyclic Sorted List](https://leetcode.com/problems/insert-into-a-cyclic-sorted-list/) | 👾 | Medium |
 
 ## [Trees and Graphs](https://leetcode.com/explore/interview/card/google/61/trees-and-graphs/)
 
@@ -36,7 +40,15 @@
 
 ## [Recursion](https://leetcode.com/explore/interview/card/google/62/recursion-4/)
 
+|  #  | Title           |  Solution       | Difficulty    |
+|-----|---------------- | --------------- | ------------- |
+425 | [Word Squares](https://leetcode.com/problems/word-squares/) | 👾 | Hard |
+
 ## [Sorting and Searching](https://leetcode.com/explore/interview/card/google/63/sorting-and-searching-4/)
+
+|  #  | Title           |  Solution       | Difficulty    |
+|-----|---------------- | --------------- | ------------- |
+76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | 👾 | Hard |
 
 ## [Dynamic Programming](https://leetcode.com/explore/interview/card/google/64/dynamic-programming-4/)
 
@@ -47,4 +59,15 @@
 
 ## [Design](https://leetcode.com/explore/interview/card/google/65/design-4/)
 
+|  #  | Title           |  Solution       | Difficulty    |
+|-----|---------------- | --------------- | ------------- |
+346 | [Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/) | 👾 | Easy |
+284 | [Peeking Iterator](https://leetcode.com/problems/peeking-iterator/) | 👾 | Medium |
+173 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | 👾 | Medium |
+
 ## [Other](https://leetcode.com/explore/interview/card/google/66/others-4/)
+
+|  #  | Title           |  Solution       | Difficulty    |
+|-----|---------------- | --------------- | ------------- |
+393 | [UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/) | 👾 | Medium |
+318 | [Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/) | 👾 | Medium |
