@@ -73,6 +73,7 @@
 616 | [Add Bold Tag in String](https://leetcode.com/problems/add-bold-tag-in-string/) | [Python](algorithms/python/AddBoldTagInString/AddBoldTagInString.py) | Medium |
 289 | [Game of Life](https://leetcode.com/problems/game-of-life/) | [Python](./algorithms/python/GameOfLife/GameOfLife.py) | Medium |
 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Python](./algorithms/python/IntersectionOfTwoArrays/IntersectionOfTwoArrays.py) | Easy |
+482 | [License Key Formatting](https://leetcode.com/problems/license-key-formatting/) | [Python](./algorithms/python/LicenseKeyFormatting/LicenseKeyFormatting.py) | Easy |
 
 ## Linked List
 
