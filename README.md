@@ -38,7 +38,7 @@
 
 ## Notes
 
-* [Trees and Graphs](./notes/trees&graphs)
+* [Trees and Graphs](./notes/trees_graphs)
 
 ## Algorithms
 
