@@ -1,5 +1,7 @@
 # Trees & Graphs
 
+![Graph problems](./../assets/graph_problems.png)
+
 ## Binary Tree Traversal
 
 Different traversal order
