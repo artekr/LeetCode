@@ -38,7 +38,7 @@
 
 ## Notes
 
-* [Trees and Graphs](./notes/trees/TreesAndGraphs.md)
+* [Trees and Graphs](./notes/trees&graphs/README.md)
 
 ## Algorithms
 
