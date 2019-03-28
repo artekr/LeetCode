@@ -113,6 +113,7 @@
 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Python](./algorithms/python/LowestCommonAncestorOfABinarySearchTree/LowestCommonAncestorOfABinarySearchTree.py) | Easy ⭑ |
 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Python](./algorithms/python/LowestCommonAncestorOfABinaryTree/LowestCommonAncestorOfABinaryTree.py) | Medium 👾 |
 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [Python](./algorithms/python/MergeTwoBinaryTrees/MergeTwoBinaryTrees.py) | Easy |
+687 | [Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/) | [Python](./algorithms/python/LongestUnivaluePath/LongestUnivaluePath.py) | Easy |
 
 ## Dynamic Programming
 

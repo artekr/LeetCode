@@ -8,7 +8,7 @@
 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | [Python](./algorithms/python/RepeatedStringMatch/RepeatedStringMatch.py) | Easy??? 👾 |
 681 | [Next Closest Time](https://leetcode.com/problems/next-closest-time/) | 👾 | Medium |
 683 | [K Empty Slots](https://leetcode.com/problems/k-empty-slots/) | [Python](./algorithms/python/KEmptySlots/KEmptySlots.py) | Hard ⭑⭑⭑⭑ |
-687 | [Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/) | 👾 | Easy |
+687 | [Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/) | [Python](./algorithms/python/LongestUnivaluePath/LongestUnivaluePath.py) | Easy |
 482 | [License Key Formatting](https://leetcode.com/problems/license-key-formatting/) | [Python](./algorithms/python/LicenseKeyFormatting/LicenseKeyFormatting.py) | Easy |
 
 ## [Array and Strings](https://leetcode.com/explore/interview/card/google/59/array-and-strings/)
