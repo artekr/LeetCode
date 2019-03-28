@@ -49,7 +49,7 @@ def BFS(graph, start):
 # expected: 1, 2, 4, 3, 5
 
 ###############
-# BFS shortest path
+# BFS find the paths between two nodes
 ###############
 def BFS_paths(graph, start, goal):
     queue = [(start, [start])]

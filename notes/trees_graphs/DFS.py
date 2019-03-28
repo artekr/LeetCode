@@ -66,7 +66,7 @@ DFS_iterative(g.graph, 1)
 # expected: 1, 3, 5, 6, 7, 2, 4
 
 ###############
-# DFS find the path between two nodes
+# DFS find the paths between two nodes
 ###############
 
 def DFS_paths_recursive(graph, start, goal):
