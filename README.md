@@ -3,6 +3,12 @@
 
 ## Common Algorithms
 
+<details><summary>Greatest common divisor (GCD) ⭑</summary>
+<p>
+* [GCD of more than two (or array) numbers](https://www.geeksforgeeks.org/gcd-two-array-numbers/)
+</p>
+</details>
+
 <details><summary>BFS ⭑⭑</summary>
 <p>
 
