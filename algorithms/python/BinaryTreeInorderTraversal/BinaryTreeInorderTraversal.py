@@ -30,3 +30,32 @@ class Solution2:
             node = stack.pop()
             result.append(node.val)
             root = node.right
+
+########
+# Test #
+########
+
+#     1
+#    / \
+#   2   3
+#  /  \
+# 4    5
+#     /
+#    6
+
+root = TreeNode(1)
+node1 = TreeNode(2)
+node2 = TreeNode(3)
+node3 = TreeNode(4)
+node4 = TreeNode(5)
+node5 = TreeNode(6)
+
+root.left = node1
+root.right = node2
+node1.left = node3
+node1.right = node4
+node4.left = node5
+
+result = Solution2().inorderTraversal(root)
+print(result)
+# expected: [4, 2, 6, 5, 1, 3]
