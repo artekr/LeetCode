@@ -2,6 +2,12 @@
 
 ![Language](https://img.shields.io/badge/language-Python%20%2F%20Java%20-orange.svg)
 
+## Notes
+
+* [Stack](./notes/stack)
+* [Queue](./notes/queue)
+* [Trees and Graphs](./notes/trees_graphs)
+
 ## Common Algorithms
 
 <!-- markdownlint-disable MD033 -->
@@ -45,10 +51,6 @@
 
 </p>
 </details>
-
-## Notes
-
-* [Trees and Graphs](./notes/trees_graphs)
 
 ## Algorithms
 
