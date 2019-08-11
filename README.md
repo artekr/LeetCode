@@ -1,8 +1,10 @@
 # [LeetCode](https://leetcode.com/problemset/algorithms/)
+
 ![Language](https://img.shields.io/badge/language-Python%20%2F%20Java%20-orange.svg)
 
 ## Common Algorithms
 
+<!-- markdownlint-disable MD033 -->
 <details><summary>Greatest common divisor (GCD) ⭑</summary>
 <p>
 
