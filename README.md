@@ -104,6 +104,7 @@
 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) | [Java](./algorithms/java/src/LinkedList/_237_Delete_Node_In_A_Linked_List/DeleteNodeInALinkedList.java) | Easy |
 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Python](./algorithms/python/MergeKSortedLists/MergeKSortedLists.py) | Hard |
 708 | [Insert into a Cyclic Sorted List](https://leetcode.com/problems/insert-into-a-cyclic-sorted-list/) | 👾 | Medium |
+146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [Python](./algorithms/python/LRUCache/LRUCache.py) | Medium |
 
 ## Trees and Graphs
 
