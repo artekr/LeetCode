@@ -54,11 +54,12 @@
 
 ## Algorithms
 
+* [Greedy Algorithm](https://github.com/artekr/LeetCode#greedy-algorithm)
+* [Dynamic Programming](https://github.com/artekr/LeetCode#dynamic-programming)
 * [Bit Manipulation](https://github.com/artekr/LeetCode#bit-manipulation)
 * [Array and String](https://github.com/artekr/LeetCode#array-and-string)
 * [Linked List](https://github.com/artekr/LeetCode#linked-list)
 * [Trees and Graphs](https://github.com/artekr/LeetCode#trees-and-graphs)
-* [Dynamic Programming](https://github.com/artekr/LeetCode#dynamic-programming)
 * [Math](https://github.com/artekr/LeetCode#math)
 
 ## Bit Manipulation
@@ -136,6 +137,12 @@
 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Python](./algorithms/python/UniquePaths/UniquePaths.py) | Medium ⭑⭑⭑⭑ |
 91 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | [Python](./algorithms/python/DecodeWays/DecodeWays.py) | Medium ⭑⭑⭑⭑ |
 139 | [Word Break](https://leetcode.com/problems/word-break/) | [Python](./algorithms/python/WordBreak/WordBreak.py) | Medium  👾 |
+
+## Greedy Algorithm
+
+|  #  | Title           |  Solution       | Difficulty    |
+|-----|---------------- | --------------- | ------------- |
+402 | [Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | [Python](./algorithms/python/RemoveKDigits/RemoveKDigits.py) | Medium |
 
 ## Math
 
