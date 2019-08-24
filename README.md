@@ -151,3 +151,4 @@
 |  #  | Title           |  Solution       | Difficulty    |
 |-----|---------------- | --------------- | ------------- |
 326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | [Python](./algorithms/python/PowerOfThree/PowerOfThree.py) | Easy |
+412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Python](./algorithms/python/FizzBuzz/FizzBuzz.py) | Easy |
