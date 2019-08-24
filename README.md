@@ -143,6 +143,7 @@
 |  #  | Title           |  Solution       | Difficulty    |
 |-----|---------------- | --------------- | ------------- |
 402 | [Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | [Python](./algorithms/python/RemoveKDigits/RemoveKDigits.py) | Medium |
+122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Python](./algorithms/python/BestTimeToBuyAndSellStockII/BestTimeToBuyAndSellStockII.py) | Easy |
 
 ## Math
 
