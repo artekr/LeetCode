@@ -52,23 +52,59 @@
 </p>
 </details>
 
+## Common Algorithmic Paradigms
+
+* [Divide and Conquer](https://github.com/artekr/LeetCode#divide-and-conquer)
+* [Greedy Algorithm](https://github.com/artekr/LeetCode#greedy-algorithm)
+* [Backtracking](https://github.com/artekr/LeetCode#backtracking)
+* [Dynamic Programming](https://github.com/artekr/LeetCode#dynamic-programming)
+
 ## Algorithms
 
-* [Greedy Algorithm](https://github.com/artekr/LeetCode#greedy-algorithm)
-* [Dynamic Programming](https://github.com/artekr/LeetCode#dynamic-programming)
 * [Bit Manipulation](https://github.com/artekr/LeetCode#bit-manipulation)
 * [Array and String](https://github.com/artekr/LeetCode#array-and-string)
 * [Linked List](https://github.com/artekr/LeetCode#linked-list)
 * [Trees and Graphs](https://github.com/artekr/LeetCode#trees-and-graphs)
 * [Math](https://github.com/artekr/LeetCode#math)
 
-## Bit Manipulation
+### Divide and Conquer
+
+|  #  | Title           |  Solution       | Difficulty    |
+|-----|---------------- | --------------- | ------------- |
+53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python](./algorithms/python/MaximumSubarray/MaximumSubarray.py) | Easy |
+169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Python](./algorithms/python/MajorityElement/MajorityElement.py) | Easy |
+
+### Greedy Algorithm
+
+|  #  | Title           |  Solution       | Difficulty    |
+|-----|---------------- | --------------- | ------------- |
+402 | [Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | [Python](./algorithms/python/RemoveKDigits/RemoveKDigits.py) | Medium |
+122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Python](./algorithms/python/BestTimeToBuyAndSellStockII/BestTimeToBuyAndSellStockII.py) | Easy |
+
+### Backtracking
+
+|  #  | Title           |  Solution       | Difficulty    |
+|-----|---------------- | --------------- | ------------- |
+
+### Dynamic Programming
+
+|  #  | Title           |  Solution       | Difficulty    |
+|-----|---------------- | --------------- | ------------- |
+70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python](./algorithms/python/ClimbingStairs/ClimbingStairs.py) | Easy ⭑⭑⭑ |
+62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Python](./algorithms/python/UniquePaths/UniquePaths.py) | Medium ⭑⭑⭑⭑ |
+91 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | [Python](./algorithms/python/DecodeWays/DecodeWays.py) | Medium ⭑⭑⭑⭑ |
+139 | [Word Break](https://leetcode.com/problems/word-break/) | [Python](./algorithms/python/WordBreak/WordBreak.py) | Medium  👾 |
+121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](./algorithms/python/BestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock.py) | Easy |
+
+---
+
+### Bit Manipulation
 
 |  #  | Title           |  Solution       | Difficulty    |
 |-----|---------------- | --------------- | ------------- |
 231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | [Python](./algorithms/python/PowerOfTwo/PowerOfTwo.py) | Easy |
 
-## Array and String
+### Array and String
 
 |  #  | Title           |  Solution       | Difficulty    |
 |-----|---------------- | --------------- | ------------- |
@@ -88,7 +124,7 @@
 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Python](./algorithms/python/IntersectionOfTwoArrays/IntersectionOfTwoArrays.py) | Easy |
 482 | [License Key Formatting](https://leetcode.com/problems/license-key-formatting/) | [Python](./algorithms/python/LicenseKeyFormatting/LicenseKeyFormatting.py) | Easy |
 
-## Linked List
+### Linked List
 
 |  #  | Title           |  Solution       | Difficulty    |
 |-----|---------------- | --------------- | ------------- |
@@ -107,7 +143,7 @@
 708 | [Insert into a Cyclic Sorted List](https://leetcode.com/problems/insert-into-a-cyclic-sorted-list/) | 👾 | Medium |
 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [Python](./algorithms/python/LRUCache/LRUCache.py) | Medium |
 
-## Trees and Graphs
+### Trees and Graphs
 
 |  #  | Title           |  Solution       | Difficulty    |
 |-----|---------------- | --------------- | ------------- |
@@ -129,24 +165,7 @@
 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [Python](./algorithms/python/MergeTwoBinaryTrees/MergeTwoBinaryTrees.py) | Easy |
 687 | [Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/) | [Python](./algorithms/python/LongestUnivaluePath/LongestUnivaluePath.py) | Easy |
 
-## Dynamic Programming
-
-|  #  | Title           |  Solution       | Difficulty    |
-|-----|---------------- | --------------- | ------------- |
-70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python](./algorithms/python/ClimbingStairs/ClimbingStairs.py) | Easy ⭑⭑⭑ |
-62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Python](./algorithms/python/UniquePaths/UniquePaths.py) | Medium ⭑⭑⭑⭑ |
-91 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | [Python](./algorithms/python/DecodeWays/DecodeWays.py) | Medium ⭑⭑⭑⭑ |
-139 | [Word Break](https://leetcode.com/problems/word-break/) | [Python](./algorithms/python/WordBreak/WordBreak.py) | Medium  👾 |
-121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](./algorithms/python/BestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock.py) | Easy |
-
-## Greedy Algorithm
-
-|  #  | Title           |  Solution       | Difficulty    |
-|-----|---------------- | --------------- | ------------- |
-402 | [Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | [Python](./algorithms/python/RemoveKDigits/RemoveKDigits.py) | Medium |
-122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Python](./algorithms/python/BestTimeToBuyAndSellStockII/BestTimeToBuyAndSellStockII.py) | Easy |
-
-## Math
+### Math
 
 |  #  | Title           |  Solution       | Difficulty    |
 |-----|---------------- | --------------- | ------------- |
