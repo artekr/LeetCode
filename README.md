@@ -165,6 +165,7 @@
 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Python](./algorithms/python/LowestCommonAncestorOfABinaryTree/LowestCommonAncestorOfABinaryTree.py) | Medium 👾 |
 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [Python](./algorithms/python/MergeTwoBinaryTrees/MergeTwoBinaryTrees.py) | Easy |
 687 | [Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/) | [Python](./algorithms/python/LongestUnivaluePath/LongestUnivaluePath.py) | Easy |
+111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Python](./algorithms/python/MinimumDepthOfBinaryTree/MinimumDepthOfBinaryTree.py) | Easy |
 
 ### Math
 
