@@ -105,6 +105,7 @@
 |-----|---------------- | --------------- | ------------- |
 231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | [Python](./algorithms/python/PowerOfTwo/PowerOfTwo.py) | Easy |
 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Python](./algorithms/python/SingleNumber/SingleNumber.py) | Easy |
+169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Python](./algorithms/python/MajorityElement/MajorityElement.py) | Easy |
 
 ### Array and String
 
