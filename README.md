@@ -96,6 +96,7 @@
 91 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | [Python](./algorithms/python/DecodeWays/DecodeWays.py) | Medium ⭑⭑⭑⭑ |
 139 | [Word Break](https://leetcode.com/problems/word-break/) | [Python](./algorithms/python/WordBreak/WordBreak.py) | Medium  👾 |
 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](./algorithms/python/BestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock.py) | Easy |
+198 | [House Robber](https://leetcode.com/problems/house-robber/) | [Python](./algorithms/python/HouseRobber/HouseRobber.py) | Easy |
 
 ---
 
