@@ -127,6 +127,7 @@
 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Python](./algorithms/python/IntersectionOfTwoArrays/IntersectionOfTwoArrays.py) | Easy |
 482 | [License Key Formatting](https://leetcode.com/problems/license-key-formatting/) | [Python](./algorithms/python/LicenseKeyFormatting/LicenseKeyFormatting.py) | Easy |
 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Python](./algorithms/python/MajorityElement/MajorityElement.py) | Easy ⭑⭑⭑ |
+283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Python](./algorithms/python/MoveZeroes/MoveZeroes.py) | Easy |
 
 ### Linked List
 
