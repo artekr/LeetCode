@@ -90,7 +90,7 @@
 
 |  #  | Title           |  Solution       | Difficulty    |
 |-----|---------------- | --------------- | ------------- |
-53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python](./algorithms/python/MaximumSubarray/MaximumSubarray.py) | Easy |
+53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python](./algorithms/python/MaximumSubarray/MaximumSubarray.py) | Easy ⭑⭑⭑⭑ |
 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python](./algorithms/python/ClimbingStairs/ClimbingStairs.py) | Easy ⭑⭑⭑ |
 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Python](./algorithms/python/UniquePaths/UniquePaths.py) | Medium ⭑⭑⭑⭑ |
 91 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | [Python](./algorithms/python/DecodeWays/DecodeWays.py) | Medium ⭑⭑⭑⭑ |
@@ -105,7 +105,6 @@
 |-----|---------------- | --------------- | ------------- |
 231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | [Python](./algorithms/python/PowerOfTwo/PowerOfTwo.py) | Easy |
 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Python](./algorithms/python/SingleNumber/SingleNumber.py) | Easy |
-169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Python](./algorithms/python/MajorityElement/MajorityElement.py) | Easy |
 
 ### Array and String
 
@@ -126,6 +125,7 @@
 289 | [Game of Life](https://leetcode.com/problems/game-of-life/) | [Python](./algorithms/python/GameOfLife/GameOfLife.py) | Medium |
 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Python](./algorithms/python/IntersectionOfTwoArrays/IntersectionOfTwoArrays.py) | Easy |
 482 | [License Key Formatting](https://leetcode.com/problems/license-key-formatting/) | [Python](./algorithms/python/LicenseKeyFormatting/LicenseKeyFormatting.py) | Easy |
+169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Python](./algorithms/python/MajorityElement/MajorityElement.py) | Easy ⭑⭑⭑ |
 
 ### Linked List
 
