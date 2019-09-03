@@ -21,10 +21,21 @@ class Solution:
 
     # Iteration
     def convertBST_iteration(self, root: TreeNode) -> TreeNode:
-        # TODO
-        return None
-        
-
+        if not root:
+            return None
+        stack = []
+        total = 0
+        current = root
+        while True:
+            while current:
+                stack.append(current)
+                current = current.right
+            if not stack:
+                return root
+            node = stack.pop()
+            total += node.val
+            node.val = total
+            current = node.left
 
 ########
 # Test #
@@ -41,7 +52,8 @@ node2 = TreeNode(13)
 root.left = node1
 root.right = node2
 
-new_root = Solution().convertBST(root)
+# new_root = Solution().convertBST(root)
+new_root = Solution().convertBST_iteration(root)
 
 assert new_root.val == 18
 assert new_root.left.val == 20
