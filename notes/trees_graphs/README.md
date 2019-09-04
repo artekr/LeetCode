@@ -2,6 +2,20 @@
 
 ![Graph problems](./../assets/graph_problems.png)
 
+## Tree common algorithms
+
+<!-- markdownlint-disable MD033 -->
+<details><summary>Tree Height</summary>
+<p>
+
+* [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+* [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
+* [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
+
+</p>
+</details>
+
+
 ## Binary Tree Traversal
 
 Different traversal order
