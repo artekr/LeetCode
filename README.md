@@ -174,7 +174,8 @@
 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Python](./algorithms/python/MinimumDepthOfBinaryTree/MinimumDepthOfBinaryTree.py) | Easy |
 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Python](./algorithms/python/InvertBinaryTree/Invert Binary Tree.py) | Easy ⭑⭑⭑⭑ |
 437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/) | [Python](./algorithms/python/PathSumIII/PathSumIII.py) | Easy 👾 |
-538 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | [Python](./algorithms/python/ConvertBSTToGreaterTree/ConvertBSTToGreaterTree.py) | Easy |
+538 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | [Python](./algorithms/python/ConvertBSTToGreaterTree/ConvertBSTToGreaterTree.py) | Easy ⭑⭑⭑⭑ |
+543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Python](./algorithms/python/DiameterOfBinaryTree/DiameterOfBinaryTree.py) | Easy ⭑⭑⭑⭑ |
 
 ### Math
 
