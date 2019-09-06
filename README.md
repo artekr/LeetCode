@@ -182,6 +182,7 @@
 
 |  #  | Title           |  Solution       | Difficulty    |
 |-----|---------------- | --------------- | ------------- |
+7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Python](./algorithms/python/ReverseInteger/ReverseInteger.py) | Easy |
 326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | [Python](./algorithms/python/PowerOfThree/PowerOfThree.py) | Easy |
 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Python](./algorithms/python/FizzBuzz/FizzBuzz.py) | Easy |
 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Python](./algorithms/python/SingleNumber/SingleNumber.py) | Easy |
