@@ -8,13 +8,6 @@ class Solution:
 #   D - 500
 #   M - 1000
 
-#   IV - 4
-#   IX - 9
-#   XL - 40
-#   XC - 90
-#   CD - 400
-#   CM - 900
-
     def romanToInt(self, s: str) -> int:
         total = 0
         prev = ""
@@ -27,12 +20,18 @@ class Solution:
                 "M": 1000}
         for i in range(len(s)-1, -1, -1):
             if s[i] == "I" and (prev == "V" or prev == "X"):
+                # IV - 4
+                # IX - 9
                 total -= 1
                 continue
             if s[i] == "X" and (prev == "L" or prev == "C"):
+                # XL - 40
+                # XC - 90
                 total -= 10
                 continue
             if s[i] == "C" and (prev == "D" or prev == "M"):
+                # CD - 400
+                # CM - 900
                 total -= 100
                 continue
             prev = s[i]
