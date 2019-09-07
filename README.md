@@ -187,3 +187,4 @@
 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Python](./algorithms/python/FizzBuzz/FizzBuzz.py) | Easy |
 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Python](./algorithms/python/SingleNumber/SingleNumber.py) | Easy |
 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Python](./algorithms/python/RomanToInteger/RomanToInteger.py) | Easy |
+9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./algorithms/python/PalindromeNumber/PalindromeNumber.py) | Easy |
