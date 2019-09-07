@@ -132,7 +132,8 @@
 581 | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | [Python](./algorithms/python/ShortestUnsortedContinuousSubarray/ShortestUnsortedContinuousSubarray.py) | Easy |
 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Python](./algorithms/python/ReverseString/ReverseString.py) | Easy |
 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Python](./algorithms/python/LongestCommonPrefix/LongestCommonPrefix.py) | Easy |
-
+26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python](./algorithms/python/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.py) | Easy |
+27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Python](./algorithms/python/RemoveElement/RemoveElement.py) | Easy |
 
 ### Linked List
 
