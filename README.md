@@ -35,10 +35,10 @@
 </p>
 </details>
 
-<details><summary>Divide and Conquer ⭑⭑</summary>
+<details><summary>Binary Search ⭑⭑</summary>
 <p>
 
-* 106: [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)
+* 35: [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
 
 </p>
 </details>
@@ -72,6 +72,7 @@
 |  #  | Title           |  Solution       | Difficulty    |
 |-----|---------------- | --------------- | ------------- |
 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python](./algorithms/python/MaximumSubarray/MaximumSubarray.py) | Easy |
+106 | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [Python](./algorithms/python/ConstructBinaryTreefromInorderAndPostorderTraversal/ConstructBinaryTreefromInorderAndPostorderTraversal.py) | Medium ⭑ |
 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Python](./algorithms/python/MajorityElement/MajorityElement.py) | Easy |
 
 ### Greedy Algorithm
@@ -134,7 +135,8 @@
 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Python](./algorithms/python/LongestCommonPrefix/LongestCommonPrefix.py) | Easy |
 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python](./algorithms/python/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.py) | Easy |
 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Python](./algorithms/python/RemoveElement/RemoveElement.py) | Easy |
-28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Python](./algorithms/python/Implement StrStr/ImplementStrStr.py) | Easy |
+28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Python](./algorithms/python/ImplementStrStr/ImplementStrStr.py) | Easy |
+35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Python](./algorithms/python/SearchInsertPosition/SearchInsertPosition.py) | Easy |
 
 ### Linked List
 
