@@ -134,6 +134,7 @@
 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Python](./algorithms/python/LongestCommonPrefix/LongestCommonPrefix.py) | Easy |
 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python](./algorithms/python/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.py) | Easy |
 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Python](./algorithms/python/RemoveElement/RemoveElement.py) | Easy |
+28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Python](./algorithms/python/Implement StrStr/ImplementStrStr.py) | Easy |
 
 ### Linked List
 
