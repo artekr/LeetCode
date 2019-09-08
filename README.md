@@ -120,6 +120,7 @@
 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | [Python](./algorithms/python/RepeatedStringMatch/RepeatedStringMatch.py) | Easy |
 683 | [K Empty Slots](https://leetcode.com/problems/k-empty-slots/) | [Python](./algorithms/python/KEmptySlots/KEmptySlots.py) | Hard ⭑⭑⭑⭑ |
 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Python](./algorithms/python/SpiralMatrix/SpiralMatrix.py) | Medium ⭑ |
+58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Python](./algorithms/python/LengthOfLastWord/LengthOfLastWord.py) | Easy|
 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Python](./algorithms/python/TrappingRainWater/TrappingRainWater.py) | Hard ⭑⭑ |
 159 | [Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/) | [Python](./algorithms/python/LongestSubstringWithAtMostTwoDistinctCharacters/LongestSubstringWithAtMostTwoDistinctCharacters.py) | Hard ⭑⭑ |
 340 | [Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/) | [Python](./algorithms/python/LongestSubstringWithAtMostKDistinctCharacters/LongestSubstringWithAtMostKDistinctCharacters.py) | Hard ⭑⭑⭑⭑ |
