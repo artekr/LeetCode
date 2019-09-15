@@ -86,6 +86,7 @@
 
 |  #  | Title           |  Solution       | Difficulty    |
 |-----|---------------- | --------------- | ------------- |
+| 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Python](./algorithms/python/MergeSortedArray/MergeSortedArray.py) | Easy |
 
 ### Dynamic Programming
 
@@ -139,7 +140,7 @@
 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Python](./algorithms/python/ImplementStrStr/ImplementStrStr.py) | Easy |
 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Python](./algorithms/python/SearchInsertPosition/SearchInsertPosition.py) | Easy |
 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Python](./algorithms/python/SearchInsertPosition/SearchInsertPosition.py) | Medium |
-| 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Python](./algorithms/python/MergeSortedArray/MergeSortedArray.py) | Easy |
+88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Python](./algorithms/python/MergeSortedArray/MergeSortedArray.py) | Easy |
 
 ### Linked List
 
