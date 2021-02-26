@@ -15,25 +15,27 @@
 </p>
 </details>
 
-
 ## Binary Tree Traversal
 
 Different traversal order
 ![tree_traversal](https://leetcode.com/problems/validate-binary-search-tree/Figures/145_transverse.png)
 
-### Inorder
+### In-order
+
 left -> root -> right
 
 [Python](./../../algorithms/python/BinaryTreeInorderTraversal/BinaryTreeInorderTraversal.py)
 
-### Preorder
+### Pre-order
+
 root -> left -> right
 
 Derived DFS.
 
 [Python](./../../algorithms/python/BinaryTreePreorderTraversal/BinaryTreePreorderTraversal.py)
 
-### Postorder
+### Post-order
+
 left -> right -> root
 
 Derived DFS.
@@ -41,7 +43,9 @@ Derived DFS.
 [Python](./../../algorithms/python/BinaryTreePostorderTraversal/BinaryTreePostorderTraversal.py)
 
 ### Level Order
+
 Traverse the tree one layer at a time
+
 ```
      3
     / \
@@ -55,6 +59,7 @@ Traverse the tree one layer at a time
     [15, 7]
 ]
 ```
+
 This is similar to Bread-first Search. The trick is to use a queue, and iterate the length of the queue to store each layer node.
 
 [Python](./../../algorithms/python/BinaryTreeLevelOrderTraversal/BinaryTreeLevelOrderTraversal.py)
