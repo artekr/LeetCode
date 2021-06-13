@@ -27,5 +27,3 @@ class Solution2:
 
 print(Solution2().climbStairs(6))
 # expected: 13
-
-    
