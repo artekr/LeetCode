@@ -141,7 +141,7 @@
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Python](./algorithms/python/SearchInsertPosition/SearchInsertPosition.py) | Medium |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Python](./algorithms/python/MergeSortedArray/MergeSortedArray.py) | Easy |
 | 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) | [Python](./algorithms/python/SmallestSubsequenceOfDistinctCharacters/SmallestSubsequenceOfDistinctCharacters.py) | Medium 👾 |
-| 1 | [2Sum](https://leetcode.com/problems/2sum/) | [swift](./algorithms/swift/1-TwoSum.swift) | Easy |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Swift](./algorithms/swift/1-TwoSum.swift) | Easy |
 
 ### Linked List
 
