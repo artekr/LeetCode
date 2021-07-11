@@ -112,6 +112,7 @@
 
 |  #  | Title           |  Solution       | Difficulty    |
 |-----|---------------- | --------------- | ------------- |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Swift](./algorithms/swift/1-TwoSum.swift) | Easy |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [Java](./algorithms/java/src/String/_125_Valid_Palindrome), [Python](./algorithms/python/ValidPalindrome/ValidPalindrome.py)  | Easy |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](./algorithms/python/ValidParentheses/ValidParentheses.py) | Easy |
 | 929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | [Python](./algorithms/python/UniqueEmailAddresses/UniqueEmailAddresses.py) | Easy |
@@ -141,7 +142,6 @@
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Python](./algorithms/python/SearchInsertPosition/SearchInsertPosition.py) | Medium |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Python](./algorithms/python/MergeSortedArray/MergeSortedArray.py) | Easy |
 | 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) | [Python](./algorithms/python/SmallestSubsequenceOfDistinctCharacters/SmallestSubsequenceOfDistinctCharacters.py) | Medium 👾 |
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Swift](./algorithms/swift/1-TwoSum.swift) | Easy |
 
 ### Linked List
 
