@@ -145,6 +145,7 @@
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [swift](./algorithms/swift/485-Max-Consecutive-Ones.swift) | Easy |
 | 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | [swift](./algorithms/swift/1295.Find-Numbers-with-Even-Number-of-Digits.swift) | Easy |
 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [swift](./algorithms/swift/977.Squares-of-a-Sorted-Array.swift) | Easy |
+| 1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)) | [swift](./algorithms/swift/1089-Duplicate-Zeros.swift) | Easy |
 
 ### Linked List
 
