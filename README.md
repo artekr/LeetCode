@@ -112,7 +112,7 @@
 
 |  #  | Title           |  Solution       | Difficulty    |
 |-----|---------------- | --------------- | ------------- |
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Swift](./algorithms/swift/1-TwoSum.swift) | Easy |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Swift](./algorithms/swift/1.TwoSum.swift) | Easy |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [Java](./algorithms/java/src/String/_125_Valid_Palindrome), [Python](./algorithms/python/ValidPalindrome/ValidPalindrome.py)  | Easy |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](./algorithms/python/ValidParentheses/ValidParentheses.py) | Easy |
 | 929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | [Python](./algorithms/python/UniqueEmailAddresses/UniqueEmailAddresses.py) | Easy |
@@ -142,10 +142,11 @@
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Python](./algorithms/python/SearchInsertPosition/SearchInsertPosition.py) | Medium |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Python](./algorithms/python/MergeSortedArray/MergeSortedArray.py) | Easy |
 | 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) | [Python](./algorithms/python/SmallestSubsequenceOfDistinctCharacters/SmallestSubsequenceOfDistinctCharacters.py) | Medium 👾 |
-| 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [swift](./algorithms/swift/485-Max-Consecutive-Ones.swift) | Easy |
+| 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [swift](./algorithms/swift/485.Max-Consecutive-Ones.swift) | Easy |
 | 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | [swift](./algorithms/swift/1295.Find-Numbers-with-Even-Number-of-Digits.swift) | Easy |
 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [swift](./algorithms/swift/977.Squares-of-a-Sorted-Array.swift) | Easy |
-| 1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)) | [swift](./algorithms/swift/1089-Duplicate-Zeros.swift) | Easy |
+| 1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)) | [swift](./algorithms/swift/1089.Duplicate-Zeros.swift) | Easy |
+| 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)) | [swift](./algorithms/swift/88.Merge-Sorted-Array.swift) | Easy |
 
 ### Linked List
 
