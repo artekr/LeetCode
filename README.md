@@ -136,17 +136,17 @@
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Python](./algorithms/python/ReverseString/ReverseString.py) | Easy |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Python](./algorithms/python/LongestCommonPrefix/LongestCommonPrefix.py) | Easy |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python](./algorithms/python/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.py) | Easy |
-| 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Python](./algorithms/python/RemoveElement/RemoveElement.py) | Easy |
+| 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Python](./algorithms/python/RemoveElement/RemoveElement.py), [Swift](./algorithms/swift/27.Remove-Element.swift) | Easy |
 | 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Python](./algorithms/python/ImplementStrStr/ImplementStrStr.py) | Easy |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Python](./algorithms/python/SearchInsertPosition/SearchInsertPosition.py) | Easy |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Python](./algorithms/python/SearchInsertPosition/SearchInsertPosition.py) | Medium |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Python](./algorithms/python/MergeSortedArray/MergeSortedArray.py) | Easy |
 | 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) | [Python](./algorithms/python/SmallestSubsequenceOfDistinctCharacters/SmallestSubsequenceOfDistinctCharacters.py) | Medium 👾 |
-| 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [swift](./algorithms/swift/485.Max-Consecutive-Ones.swift) | Easy |
-| 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | [swift](./algorithms/swift/1295.Find-Numbers-with-Even-Number-of-Digits.swift) | Easy |
-| 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [swift](./algorithms/swift/977.Squares-of-a-Sorted-Array.swift) | Easy |
-| 1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)) | [swift](./algorithms/swift/1089.Duplicate-Zeros.swift) | Easy |
-| 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)) | [swift](./algorithms/swift/88.Merge-Sorted-Array.swift) | Easy |
+| 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Swift](./algorithms/swift/485.Max-Consecutive-Ones.swift) | Easy |
+| 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | [Swift](./algorithms/swift/1295.Find-Numbers-with-Even-Number-of-Digits.swift) | Easy |
+| 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Swift](./algorithms/swift/977.Squares-of-a-Sorted-Array.swift) | Easy |
+| 1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)) | [Swift](./algorithms/swift/1089.Duplicate-Zeros.swift) | Easy |
+| 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)) | [Swift](./algorithms/swift/88.Merge-Sorted-Array.swift) | Easy |
 
 ### Linked List
 
