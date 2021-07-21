@@ -145,8 +145,9 @@
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Swift](./algorithms/swift/485.Max-Consecutive-Ones.swift) | Easy |
 | 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | [Swift](./algorithms/swift/1295.Find-Numbers-with-Even-Number-of-Digits.swift) | Easy |
 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Swift](./algorithms/swift/977.Squares-of-a-Sorted-Array.swift) | Easy |
-| 1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)) | [Swift](./algorithms/swift/1089.Duplicate-Zeros.swift) | Easy |
-| 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)) | [Swift](./algorithms/swift/88.Merge-Sorted-Array.swift) | Easy |
+| 1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) | [Swift](./algorithms/swift/1089.Duplicate-Zeros.swift) | Easy |
+| 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Swift](./algorithms/swift/88.Merge-Sorted-Array.swift) | Easy |
+|1346 | [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | [Python](./algorithms/python/CheckIfNandItsDoubleExist/CheckIfNandItsDoubleExist.py) | Easy |
 
 ### Linked List
 
