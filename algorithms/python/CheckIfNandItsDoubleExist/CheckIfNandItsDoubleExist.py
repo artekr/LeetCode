@@ -14,6 +14,17 @@ class Solution:
         return True
     return False
 
+  # Using a Set, one pass iteration, check if the Set contains 2*i
+  # or if i is even, and the Set contains i/2
+  def checkIfExist2(self, arr: List[int]) -> bool:
+    s = set()
+    for i in arr:
+      if 2*i in s or (i%2==0 and i/2 in s):
+        return True
+      else:
+        s.add(i)
+    return False
+
 n = [7,1,14,11]
 # True
 n = [3,1,7,11]
