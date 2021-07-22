@@ -148,6 +148,7 @@
 | 1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) | [Swift](./algorithms/swift/1089.Duplicate-Zeros.swift) | Easy |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Swift](./algorithms/swift/88.Merge-Sorted-Array.swift) | Easy |
 |1346 | [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | [Python](./algorithms/python/CheckIfNandItsDoubleExist/CheckIfNandItsDoubleExist.py) | Easy |
+| 941 | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | [Swift](./algorithms/swift/941.Valid-Mountain-Array.swift) | Easy |
 
 ### Linked List
 
