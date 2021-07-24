@@ -149,6 +149,7 @@
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Swift](./algorithms/swift/88.Merge-Sorted-Array.swift) | Easy |
 |1346 | [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | [Python](./algorithms/python/CheckIfNandItsDoubleExist/CheckIfNandItsDoubleExist.py), [Swift](./algorithms/swift/1346.Check-If-N-and-Its-Double-Exist.swift) | Easy |
 | 941 | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | [Swift](./algorithms/swift/941.Valid-Mountain-Array.swift) | Easy |
+| 1299 | [Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) | [Swift](./algorithms/swift/1299.Replace-Elements-with-Greatest-Element-on-Right-Side.swift) | Easy |
 
 ### Linked List
 
