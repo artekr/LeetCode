@@ -21,8 +21,6 @@ class Solution {
   }
 
   func moveZeroes2(_ nums: inout [Int]) {
-    guard nums.count != 1 else { return }
-
     var lastZeroIndex = 0
     for cur in 0..<nums.count {
       if nums[cur] != 0 {

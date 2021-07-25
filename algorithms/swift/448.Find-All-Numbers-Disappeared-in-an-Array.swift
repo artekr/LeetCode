@@ -1,7 +1,7 @@
 /**
  * Question Link: https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
  */
- class Solution {
+class Solution {
   /// Using Set
   /// Time Complexity: O(n), Space Complexity: O(n)
   func findDisappearedNumbers(_ nums: [Int]) -> [Int] {
@@ -18,8 +18,6 @@
   }
 }
 
-
-// print(Solution().findDisappearedNumbers([1,1]))
 assert(Solution().findDisappearedNumbers([1,1]) == [2])
 assert(Solution().findDisappearedNumbers([4,3,2,7,8,2,3,1]) == [5,6])
 

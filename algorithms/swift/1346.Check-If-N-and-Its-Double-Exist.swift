@@ -17,7 +17,8 @@ class Solution {
   }
 }
 
-// let n = [7,1,14,11]
-// let n = [3,1,7,11]
-let n = [0,0,0]
-print(Solution().checkIfExist(n))
+assert(Solution().checkIfExist([7,1,14,11]) == true)
+assert(Solution().checkIfExist([3,1,7,11]) == false)
+assert(Solution().checkIfExist([0,0,0]) == true)
+
+print("PASS")

@@ -64,12 +64,10 @@ class Solution {
   }
 }
 
-let n = [1,2,3,2,1]
-// let n = [1,2,3,2]
-// let n = [1,2,2]
-// let n = [2,0,2]
+assert(Solution().validMountainArray([1,2,3,2,1]) == true)
+assert(Solution().validMountainArray([1,2,2]) == false)
+assert(Solution().validMountainArray([3]) == false)
+assert(Solution().validMountainArray2([1,2,3,2]) == true)
+assert(Solution().validMountainArray2([5,4,3,2,1]) == false)
 
-// let n = [1,2,3,4,5]
-// let n = [5,4,3,2,1]
-
-print(Solution().validMountainArray2(n))
+print("PASS")

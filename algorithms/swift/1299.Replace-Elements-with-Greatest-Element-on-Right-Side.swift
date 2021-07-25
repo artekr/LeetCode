@@ -23,6 +23,7 @@ class Solution {
   }
 }
 
-let n = [17,18,5,4,6,1]
-// let n = [400,1]
-print(Solution().replaceElements(n))
+assert(Solution().replaceElements([17,18,5,4,6,1]) == [18,6,6,6,1,-1])
+assert(Solution().replaceElements([400,1]) == [1,-1])
+
+print("PASS")

@@ -2,7 +2,7 @@
  * Question Link: https://leetcode.com/problems/sort-array-by-parity/
  */
 class Solution {
-  /// One pass, wiht new array
+  /// One pass, with new array
   /// Time Complexity: O(n), Space Complexity: O(n)
   func sortArrayByParity(_ nums: [Int]) -> [Int] {
     guard nums.count > 1 else { return nums }
