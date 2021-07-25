@@ -16,8 +16,8 @@ class Solution:
         j-=1
     return nums
 
+assert Solution().sortArrayByParity([3,1,2,4]) == [4,2,1,3]
+assert Solution().sortArrayByParity([3]) == [3]
+assert Solution().sortArrayByParity([3,4,1,2,5,7,8,10]) == [10, 4, 8, 2, 5, 7, 1, 3]
 
-# n = [3,1,2,4]
-# n = [3]
-n = [3,4,1,2,5,7,8,10]
-print(Solution().sortArrayByParity(n))
+print("PASS")

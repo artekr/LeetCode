@@ -41,7 +41,8 @@ class Solution {
   }
 }
 
-// let n = [3,1,2,4]
-// let n = [3]
-var n = [3,4,1,2,5,7,8,10]
-print(Solution().sortArrayByParity2(&n))
+assert(Solution().sortArrayByParity([3,1,2,4]) == [2,4,1,3])
+assert(Solution().sortArrayByParity([3]) == [3])
+assert(Solution().sortArrayByParity([3,4,1,2,5,7,8,10]) == [4, 2, 8, 10, 7, 5, 1, 3])
+
+print("PASS")
