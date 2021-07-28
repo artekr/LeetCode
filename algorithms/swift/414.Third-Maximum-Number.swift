@@ -6,8 +6,7 @@ class Solution {
   /// Time Complexity: O(nlogn), Space Complexity: O(n)
   func thirdMax(_ nums: [Int]) -> Int {
     guard nums.count > 1 else { return nums[0] }
-    var sorted = nums
-    sorted.sort(by: >)
+    let sorted = nums.sorted(by: >)
     var counter = 1
     var thirdMax = sorted[0]
     for n in sorted {
