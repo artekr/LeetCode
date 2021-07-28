@@ -152,6 +152,7 @@
 | 1299 | [Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) | [Swift](./algorithms/swift/1299.Replace-Elements-with-Greatest-Element-on-Right-Side.swift) | Easy |
 | 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [Python](./algorithms/python/SortArrayByParity/SortArrayByParity.py), [Swift](./algorithms/swift/905.Sort-Array-By-Parity.swift) | Easy |
 | 414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [Swift](./algorithms/swift/414.Third-Maximum-Number.swift) | Easy |
+| 1051 | [Height Checker](https://leetcode.com/problems/height-checker/) | [Swift](./algorithms/swift/1051.Height-Checker.swift) | Easy |
 
 ### Linked List
 
