@@ -19,7 +19,7 @@
  * }
  */
 class Solution {
-  /// BFS
+  /// BFS, using a queue to keep track of the children of all the nodes in the current level
   func levelOrder(_ root: TreeNode?) -> [[Int]] {
     guard root != nil else { return [] }
 
