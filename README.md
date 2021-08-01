@@ -182,7 +182,7 @@
 | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Python](./algorithms/python/BinaryTreePostorderTraversal/BinaryTreePostorderTraversal.py), [Swift](./algorithms/swift/145.Binary-Tree-Postorder-Traversal.swift) | Easy |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Python](./algorithms/python/BinaryTreeLevelOrderTraversal/BinaryTreeLevelOrderTraversal.py), [Swift](./algorithms/swift/102.Binary-Tree-Level-Order-Traversal) | Medium |
 | 107 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | [Python](./algorithms/python/BinaryTreeLevelOrderTraversalII/BinaryTreeLevelOrderTraversalII.py) | Easy |
-| 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Python](./algorithms/python/MaximumDepthofBinaryTree/MaximumDepthofBinaryTree.py) | Easy |
+| 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Python](./algorithms/python/MaximumDepthofBinaryTree/MaximumDepthofBinaryTree.py), [Swift](./algorithms/104.Maximum-Depth-of-Binary-Tree.swift) | Easy |
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Python](./algorithms/python/SymmetricTree/SymmetricTree.py) | Easy |
 | 112 | [Path Sum](https://leetcode.com/problems/path-sum) | [Python](./algorithms/python/PathSum/PathSum.py) | Easy |
 | 285 | [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/) | [Python](./algorithms/python/InorderSuccessorInBST/InorderSuccessorInBST.py) | Medium ⭑⭑⭑⭑ |
