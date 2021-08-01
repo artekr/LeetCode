@@ -19,7 +19,7 @@
  * }
  */
 class Solution {
-  /// Top-down approach, BFS, recursive
+  /// Top-down approach, DFS, recursive
   func maxDepth_bfs(_ root: TreeNode?) -> Int {
     guard let root = root else { return 0 }
 
