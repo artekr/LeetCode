@@ -31,4 +31,23 @@ class Solution {
 
     return node1!.val == node2!.val && checkChildren(node1!.left, node2!.right) && checkChildren(node1!.right, node2!.left)
   }
+
+  /// Top-down, BFS, iteration
+  func isSymmetric_iteration(_ root: TreeNode?) -> Bool {
+    guard let root = root else { return true }
+
+    var queue: [TreeNode?] = [root, root]
+    while !queue.isEmpty {
+      let n1 = queue.removeFirst()
+      let n2 = queue.removeFirst()
+      if n1 == nil && n2 == nil { continue }
+      if n1 == nil || n2 == nil { return false }
+      if n1?.val != n2?.val { return false }
+      queue.append(n1?.left)
+      queue.append(n2?.right)
+      queue.append(n1?.right)
+      queue.append(n2?.left)
+    }
+    return true
+  }
 }
