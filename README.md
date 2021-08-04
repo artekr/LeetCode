@@ -184,7 +184,7 @@
 | 107 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | [Python](./algorithms/python/BinaryTreeLevelOrderTraversalII/BinaryTreeLevelOrderTraversalII.py) | Easy |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Python](./algorithms/python/MaximumDepthofBinaryTree/MaximumDepthofBinaryTree.py), [Swift](./algorithms/104.Maximum-Depth-of-Binary-Tree.swift) | Easy |
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Python](./algorithms/python/SymmetricTree/SymmetricTree.py), [Swift](./algorithms/swift/101.Symmetric-Tree) | Easy |
-| 112 | [Path Sum](https://leetcode.com/problems/path-sum) | [Python](./algorithms/python/PathSum/PathSum.py) | Easy |
+| 112 | [Path Sum](https://leetcode.com/problems/path-sum) | [Python](./algorithms/python/PathSum/PathSum.py), [Swift](./algorithms/swift/112.Path-Sum.swift) | Easy |
 | 285 | [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/) | [Python](./algorithms/python/InorderSuccessorInBST/InorderSuccessorInBST.py) | Medium ⭑⭑⭑⭑ |
 | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Python](./algorithms/python/ValidateBinarySearchTree/ValidateBinarySearchTree.py) | Medium ⭑⭑⭑⭑ |
 | 105 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Python](./algorithms/python/ConstructBinaryTreeFromPreorderAndInorderTraversal/ConstructBinaryTreeFromPreorderAndInorderTraversal.py) | Medium ⭑ |
