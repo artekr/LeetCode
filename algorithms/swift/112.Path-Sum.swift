@@ -36,4 +36,13 @@ class Solution {
     calculateSums(node.left, currentSum+(node.left?.val ?? 0), &result)
     calculateSums(node.right, currentSum+(node.right?.val ?? 0), &result)
   }
+
+  /// Recursive, substract the val at each node
+  func hasPathSum_dfs(_ root: TreeNode?, _ targetSum: Int) -> Bool {
+    guard let root = root else { return false }
+    // if it is a leaf node, and substracting its value equal to 0, means we find a match
+    if (targetSum - root.val == 0) && root.left == nil && root.right == nil { return true }
+
+    return hasPathSum(root.left, targetSum - root.val) || hasPathSum(root.right, targetSum - root.val)
+  }
 }
