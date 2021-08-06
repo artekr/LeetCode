@@ -199,6 +199,7 @@
 | 437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/) | [Python](./algorithms/python/PathSumIII/PathSumIII.py) | Easy 👾 |
 | 538 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | [Python](./algorithms/python/ConvertBSTToGreaterTree/ConvertBSTToGreaterTree.py) | Easy ⭑⭑⭑⭑ |
 | 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Python](./algorithms/python/DiameterOfBinaryTree/DiameterOfBinaryTree.py) | Easy ⭑⭑⭑⭑ |
+| 116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Swift](./algorithms/swift/116.Populating-Next-Right-Pointers-in-Each-Node.swift) | Medium |
 
 ### Math
 
