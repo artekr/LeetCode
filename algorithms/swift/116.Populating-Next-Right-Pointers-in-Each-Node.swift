@@ -32,7 +32,7 @@ class Solution {
     guard let root = root else { return nil }
 
     root.left?.next = root.right
-    // brige the children of their parent nodes, 5 -> 6
+    // bridge the children of their parent nodes, 5 -> 6
     root.right?.next = root.next?.left
 
     connect(root.left)
@@ -55,7 +55,7 @@ class Solution {
     // connect the children of each node
     connect(node1: leftNode.left, with: leftNode.right)
     connect(node1: rightNode.left, with: rightNode.right)
-    // brige the children of the two nodes, 5 -> 6
+    // bridge the children of the two nodes, 5 -> 6
     connect(node1: leftNode.right, with: rightNode.left)
   }
 }
