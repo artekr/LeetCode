@@ -9,20 +9,20 @@ class Solution:
             if char == '(' or char == '{' or char == '[':
                 stack.append(char)
             else:
-                a = stack.pop() if stack else "#"
-                print(a)
-                if (a == '(' and char != ')'):
+                if not stack:
                     return False
-                elif (a == '{' and char != '}'):
-                    return False
-                elif (a == '[' and char != ']'):
+                a = stack.pop()
+                if (a == '(' and char != ')') or (a == '{' and char != '}') or (a == '[' and char != ']'):
                     return False
         return not stack
-        
-      
+
+
 
 print(Solution().isValid("(()("))
 # expected: False
 
 print(Solution().isValid("(()){[]}[{()}]"))
 # expected: True
+
+print(Solution().isValid("))"))
+# expected: False
